@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">themebased</string>
+    <string name="login">Login</string>
+    <string name="Learn_Anytime">Learn Anytime</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="asgnmt">Assignment sharing</string>
+    <string name="fullname">FullName</string>
+    <string name="email">Mail ID</string>
+</resources>
